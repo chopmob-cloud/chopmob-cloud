@@ -6,7 +6,7 @@ Canonicalisation, receipts, settlement attestation, and verification, byte-for-b
 
 It is open. Apache-2.0. **Adopt it, reference us, and build whatever you are building on top of it.**
 
-### Start here
+### Adopt the substrate (open, Apache-2.0)
 
 - [Adopt the substrate](https://docs.algovoi.co.uk/canonicalisation-substrate), the invitation and what is open
 - [`algovoi-substrate`](https://github.com/chopmob-cloud/algovoi-substrate), the core, Apache-2.0
@@ -14,6 +14,13 @@ It is open. Apache-2.0. **Adopt it, reference us, and build whatever you are bui
 - [IETF Internet-Drafts](https://datatracker.ietf.org/doc/draft-hopley-x402-canonicalisation-jcs-v1/), the normative specs
 - [Adopters registry](https://docs.algovoi.co.uk/adopters), who is already building on it
 
-The only ask is the one the licence already makes: keep the NOTICE, name who authored the substrate. Then build.
+The only ask the open core makes is the one the licence already makes: keep the NOTICE, name who authored the substrate. Then build.
+
+### Substrate 2 (the enhanced, commercial tier)
+
+Built on the same canonical evidence format and fully interoperable with the open substrate. Post-quantum receipts, zero-knowledge reputation, cross-issuer federation, and a self-serve on-premise bundle.
+
+- [Substrate 2](https://docs.algovoi.co.uk/substrate-2), the commercial tier and what it adds
+- [Application suite](https://api.algovoi.co.uk/suite-store), production apps you can license and run
 
 Christopher Hopley / AlgoVoi
