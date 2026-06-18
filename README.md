@@ -16,6 +16,19 @@ It is open. Apache-2.0. **Adopt it, reference us, and build whatever you are bui
 
 The only ask the open core makes is the one the licence already makes: keep the NOTICE, name who authored the substrate. Then build.
 
+### Already in the substrate, validated and built in
+
+The capabilities being worked out across the agentic-payments ecosystem are already specified, shipped, and byte-for-byte validated here:
+
+- freeze-at-acceptance mandate evaluation, admission-gated, with a settlement window a later mandate lapse cannot shorten
+- the closed-enum signed cancellation receipt, with `EXPIRED` as the unambiguous terminal-lapse artifact
+- a shared receipt envelope with a `receipt_type` discriminator (`authorization` or `cancellation`)
+- content-addressed binding, JCS (RFC 8785) canonicalisation, and Ed25519 verification
+
+We put this model on the public record in [UCP #512](https://github.com/Universal-Commerce-Protocol/ucp/issues/512) (2026-06-13 to 2026-06-15), with a shipped AP2 facilitator and passing regression tests, validated across 8 independent implementations.
+
+Adopters get all of it. Our commitment: the substrate is maintained, and verifiable additions are ongoing. L2 builders are more than welcome.
+
 ### Substrate 2 (the enhanced, commercial tier)
 
 Built on the same canonical evidence format and fully interoperable with the open substrate. Post-quantum receipts, zero-knowledge reputation, cross-issuer federation, and a self-serve on-premise bundle.
