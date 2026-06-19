@@ -25,8 +25,6 @@ The capabilities being worked out across the agentic-payments ecosystem are alre
 - a shared receipt envelope with a `receipt_type` discriminator (`authorization` or `cancellation`)
 - content-addressed binding, JCS (RFC 8785) canonicalisation, and Ed25519 verification
 
-We put this model on the public record in [UCP #512](https://github.com/Universal-Commerce-Protocol/ucp/issues/512) (2026-06-13 to 2026-06-15), with a shipped AP2 facilitator and passing regression tests, validated across 8 independent implementations.
-
 Adopters get all of it. Our commitment: the substrate is maintained, and verifiable additions are ongoing. L2 builders are more than welcome.
 
 ### Substrate 2 (the enhanced, commercial tier)
