@@ -10,7 +10,7 @@ It is open. Apache-2.0. **Adopt it, reference us, and build whatever you are bui
 
 - [Adopt the substrate](https://docs.algovoi.co.uk/canonicalisation-substrate), the invitation and what is open
 - [`algovoi-substrate`](https://github.com/chopmob-cloud/algovoi-substrate), the core, Apache-2.0
-- [Conformance vectors](https://github.com/chopmob-cloud/algovoi-jcs-conformance-vectors), 21 sets, 166 vectors, 832/832 byte-for-byte across 8 languages
+- [Conformance vectors](https://github.com/chopmob-cloud/algovoi-jcs-conformance-vectors), 27 sets, 213 vectors, 880/880 byte-for-byte across 8 languages
 - [IETF Internet-Drafts](https://datatracker.ietf.org/doc/draft-hopley-x402-canonicalisation-jcs-v1/), the normative specs
 - [Adopters registry](https://docs.algovoi.co.uk/adopters), who is already building on it
 
