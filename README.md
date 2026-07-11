@@ -16,6 +16,17 @@ It is open. Apache-2.0. **Adopt it, reference us, and build whatever you are bui
 
 The only ask the open core makes is the one the licence already makes: keep the NOTICE, name who authored the substrate. Then build.
 
+### Build on it with the Keystone toolchain (open, Apache-2.0)
+
+The [Keystone](https://docs.algovoi.co.uk/keystone) composes the whole agentic trust chain (identity, authority, policy, decision, execution, verdict) into one recomputable sequence. The open Keystone tooling is how you build on the substrate. Start with the Control Panel:
+
+- [The Keystone](https://docs.algovoi.co.uk/keystone), the trust chain and the `execution_ref` primitive
+- [SDK and Control Panel](https://docs.algovoi.co.uk/keystone-sdk), the umbrella toolchain (`algovoi-keystone`) plus `algovoi-keystone-control`, the open browser Control Panel for installed bolt-ons
+- [Runtime and journal](https://docs.algovoi.co.uk/keystone-runtime), run a chain and persist every reference to a tamper-evident journal
+- [Agent layer](https://docs.algovoi.co.uk/keystone-agent), rules, triggers, and behaviours, each firing a `behaviour_ref`
+- [Connect](https://docs.algovoi.co.uk/keystone-connect) and [Connectors](https://docs.algovoi.co.uk/keystone-connectors), bind live operations across databases, message buses, HTTP services, and object storage
+- [Proof](https://docs.algovoi.co.uk/keystone-proof), offline verification against a published key
+
 ### Already in the substrate, validated and built in
 
 The capabilities being worked out across the agentic-payments ecosystem are already specified, shipped, and byte-for-byte validated here:
