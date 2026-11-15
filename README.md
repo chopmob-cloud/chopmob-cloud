@@ -2,7 +2,7 @@
 
 We built the evidence layer that lets an agent payment, a credential, or an audit record mean the same thing no matter who issued it. We built it so others could use it.
 
-Canonicalisation, receipts, settlement attestation, and verification, byte-for-byte cross-validated across 8 independent implementations in 8 languages, specified in the IETF, and running in production.
+Canonicalisation, receipts, settlement attestation, and verification, byte-for-byte cross-validated across ten independent implementations in ten languages, specified in the IETF, and running in production.
 
 It is open. Apache-2.0. **Adopt it, reference us, and build whatever you are building on top of it.**
 
@@ -10,7 +10,7 @@ It is open. Apache-2.0. **Adopt it, reference us, and build whatever you are bui
 
 - [Adopt the substrate](https://docs.algovoi.co.uk/canonicalisation-substrate), the invitation and what is open
 - [`algovoi-substrate`](https://github.com/chopmob-cloud/algovoi-substrate), the core, Apache-2.0
-- [Conformance vectors](https://github.com/chopmob-cloud/algovoi-jcs-conformance-vectors), 27 sets, 213 vectors, 880/880 byte-for-byte across 8 languages
+- [Conformance vectors](https://github.com/chopmob-cloud/algovoi-jcs-conformance-vectors), 45 sets, 374 vectors, 1226/1226 byte-for-byte across ten languages
 - [IETF Internet-Drafts](https://datatracker.ietf.org/doc/draft-hopley-x402-canonicalisation-jcs-v1/), the normative specs
 - [Adopters registry](https://docs.algovoi.co.uk/adopters), who is already building on it
 
@@ -43,6 +43,8 @@ Adopters get all of it. Our commitment: the substrate is maintained, and verifia
 Built on the same canonical evidence format and fully interoperable with the open substrate. Post-quantum receipts, zero-knowledge reputation, cross-issuer federation, and a self-serve on-premise bundle.
 
 - [Substrate 2](https://docs.algovoi.co.uk/substrate-2), the commercial tier and what it adds
+- [Verifiable Compliance Suite](https://docs.algovoi.co.uk/verifiable-compliance-suite), the verifiable long-term evidence estate for regulated records: 25 post-quantum-signed components on one perpetual licence, air-gap capable, no PyPI and no phone-home
+- [`algovoi-vcs`](https://github.com/chopmob-cloud/algovoi-vcs), public documentation and the addon interfaces (`StorageBackend`, `Signer`) for the Verifiable Archive engine, so you can extend it with your own storage backend or key custodian
 - [Application suite](https://api.algovoi.co.uk/suite-store), production apps you can license and run
 
 Christopher Hopley / AlgoVoi
