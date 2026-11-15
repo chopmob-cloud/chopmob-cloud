@@ -47,4 +47,8 @@ Built on the same canonical evidence format and fully interoperable with the ope
 - [`algovoi-vcs`](https://github.com/chopmob-cloud/algovoi-vcs), public documentation and the addon interfaces (`StorageBackend`, `Signer`) for the Verifiable Archive engine, so you can extend it with your own storage backend or key custodian
 - [Application suite](https://api.algovoi.co.uk/suite-store), production apps you can license and run
 
+### Sponsor the work
+
+The substrate is maintained in the open. If it is useful to you, you can [sponsor AlgoVoi](https://github.com/sponsors/chopmob-cloud), or simply adopt it and build.
+
 Christopher Hopley / AlgoVoi
