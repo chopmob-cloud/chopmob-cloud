@@ -1,3 +1,7 @@
+[![algovoi-jcs-conformance-vectors](https://img.shields.io/badge/algovoi--jcs--conformance--vectors-8A2BE2)](https://github.com/chopmob-cloud/algovoi-jcs-conformance-vectors)
+[![algovoi-substrate](https://img.shields.io/badge/algovoi--substrate-8A2BE2)](https://github.com/chopmob-cloud/algovoi-substrate)
+[![algovoi-vcs](https://img.shields.io/badge/algovoi--vcs-8A2BE2)](https://github.com/chopmob-cloud/algovoi-vcs)
+
 ## AlgoVoi: the open substrate for agentic payments
 
 We built the evidence layer that lets an agent payment, a credential, or an audit record mean the same thing no matter who issued it. We built it so others could use it.
