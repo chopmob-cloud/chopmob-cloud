@@ -10,6 +10,16 @@ Canonicalisation, receipts, settlement attestation, and verification, byte-for-b
 
 It is open. Apache-2.0. **Adopt it, reference us, and build whatever you are building on top of it.**
 
+### Start here
+
+One document covers the whole estate: the stack, the products that build it, every documented
+subject and the live platform surfaces.
+
+- [The AlgoVoi overview](https://docs.algovoi.co.uk/overview), the whole estate in one page
+- [How the layers fit](https://docs.algovoi.co.uk/application-matrix), the stack map and what depends on what
+- [`algovoi-product-atlas`](https://github.com/chopmob-cloud/algovoi-product-atlas), the same overview plus the [product catalogue](https://github.com/chopmob-cloud/algovoi-product-atlas/blob/master/products.md), [element overlap matrix](https://github.com/chopmob-cloud/algovoi-product-atlas/blob/master/overlap.md), [subject index](https://github.com/chopmob-cloud/algovoi-product-atlas/blob/master/subjects.md) and [platform list](https://github.com/chopmob-cloud/algovoi-product-atlas/blob/master/platforms.md)
+- [Documentation](https://docs.algovoi.co.uk), the canonical source for every AlgoVoi product
+
 ### Adopt the substrate (open, Apache-2.0)
 
 - [Adopt the substrate](https://docs.algovoi.co.uk/canonicalisation-substrate), the invitation and what is open
